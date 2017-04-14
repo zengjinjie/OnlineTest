@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class Toutiao2 {
     public static void main(String[] args) {
-        System.out.printf("Test git! version0.2");
+        System.out.printf("Test git! version0.3");
     }
 }
 
